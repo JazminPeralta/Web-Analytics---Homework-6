@@ -10,6 +10,7 @@
 ## Getting started
 
 **📌 Important Note: Installing Pillow**
+
 Before running the game, make sure you have the Pillow library installed. This library is required to load and display the pet images and activity icons.
 
 Open your terminal in VS Code and run:
