@@ -7,7 +7,7 @@
 - [How-To-Play](#how-to-play)
 - [Game Controls](#game-controls)
 
-## Getting started
+## Getting Started
 
 **📌 Important Note: Installing Pillow**
 
