@@ -2,7 +2,7 @@
 ## 'Jazmin's Pet Daycare' by Jazmin Peralta
 
 ## Table of Contents 
-- [Getting Started](#getting-started]
+- [Getting-Started](#getting-started]
 - [Introduction](#introduction)
 - [How-To-Play](#how-to-play)
 - [Game Controls](#game-controls)
