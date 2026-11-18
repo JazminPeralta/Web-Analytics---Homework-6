@@ -16,6 +16,13 @@ Open your terminal in VS Code and run:
 
 python -m pip install Pillow
 
+**Python Environment**
+This game uses the **wa (Python 3.13.7)** environment.
+Before running the game in VS Code, make sure you have selected the correct Python environment:
+
+
+**Important:** Using a different Python environment may cause errors such as `ModuleNotFoundError: No module named 'PIL'` if Pillow is not installed in that environment.
+
 ## Introduction
 Jazmin's Pet Daycare is pet care game where you can adopt your own pet and take care of its needs by keeping your pet happy, healthy, and well-rested. Earn coins by completing activities and work toward unlocking new pets!
 
