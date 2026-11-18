@@ -9,7 +9,8 @@
 
 ## Introduction
 Jazmin's Pet Daycare is pet care game where you can adopt your own pet and take care of its needs by keeping your pet happy, healthy, and well-rested. Earn coins by completing activities and work toward unlocking new pets!
-*please note that the pet 'cat' cannot be unlocked at this stafe*
+
+*please note that the pet 'cat' cannot be unlocked at this stage*
 
 ## How To Play
 **Choose Your Pet:** Start by selecting the free dog and giving it a name. Other pets are displayed as locked and require coins to unlock.
